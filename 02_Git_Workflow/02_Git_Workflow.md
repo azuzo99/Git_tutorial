@@ -39,6 +39,10 @@ git commit -m "some commit"
 git add forgotten_one.txt
 git commit --amend
 ``
+Then the folder `.git/COMMIT_EDITMSG` will open. This is because sometimes there is only a need to change the commit message. This will open the VIM in most cases. 
+
+When you do not want to change commit message and add new files just save and leave the file unchanged.
+
 
 ***This one do not works for 10 commits ago***. It moves last commit to staging stage so you can combine them with actual files.
 
