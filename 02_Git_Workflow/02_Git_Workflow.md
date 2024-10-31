@@ -47,3 +47,4 @@ When you do not want to change commit message and add new files just save and le
 ***This one do not works for 10 commits ago***. It moves last commit to staging stage so you can combine them with actual files.
 
 This way you can undo last changes.
+Thats easy
