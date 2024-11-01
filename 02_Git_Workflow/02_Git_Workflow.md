@@ -43,6 +43,22 @@ Then the folder `.git/COMMIT_EDITMSG` will open. This is because sometimes there
 
 When you do not want to change commit message and add new files just save and leave the file unchanged.
 
+Last commit to amend
+
+![alt text](./screenshots/image_02_04.png)
+
+We want to change the commit message and add last changes using `--ammend`. Now `COMMIT_EDITMSG` opens
+
+![alt text](./screenshots/image_02_05.png)
+
+We change commit message manually
+
+![alt text](./screenshots/image_02_06.png)
+
+Saving file and close it. Checking logs
+
+![alt text](./screenshots/image_02_07.png)
+
 
 ***This one do not works for 10 commits ago***. It moves last commit to staging stage so you can combine them with actual files.
 
