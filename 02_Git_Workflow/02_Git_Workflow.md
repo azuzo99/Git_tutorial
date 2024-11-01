@@ -41,6 +41,14 @@ git commit --amend
 ``
 Then the folder `.git/COMMIT_EDITMSG` will open. This is because sometimes there is only a need to change the commit message. This will open the VIM in most cases. 
 
+To change from VIM to edit this changes directly in VSCode we should use
+
+```bash
+git config --global core.editor "code --wait"
+```
+
+Then open `Cmd + Shift + P` to open pallete, type `"Shell Command: Install 'code' command in PATH"` and reopen VSCode
+
 When you do not want to change commit message and add new files just save and leave the file unchanged.
 
 Last commit to amend
@@ -60,6 +68,4 @@ Saving file and close it. Checking logs
 ![alt text](./screenshots/image_02_07.png)
 
 
-***This one do not works for 10 commits ago***. It moves last commit to staging stage so you can combine them with actual files.
-
-This way you can undo last changes.
+***This one do not works for 10 commits ago***
