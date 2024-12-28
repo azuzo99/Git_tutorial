@@ -43,3 +43,7 @@
 
 You can check specific file adding its name to command, example:
 `git diff HEAD [filename]`
+
+* `git diff <commit_a> <commit_b>` -> compares commits
+
+    `git diff 1c7c2ffcaa40878593f2e89dd984575cad6ba5f1 074edab67490ac8ca5f9e8014176087ca98c1ad9`
