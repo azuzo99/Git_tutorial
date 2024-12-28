@@ -1,3 +1,6 @@
 [submodule "Git_tutorial_exercises_branches"]
 	path = Git_tutorial_exercises_branches
 	url = https://github.com/azuzo99/Git_tutorial_exercises_branches.git
+[submodule "07_Stashing/Git_Tutorial_stashing"]
+	path = 07_Stashing/Git_Tutorial_stashing
+	url = https://github.com/azuzo99/Git_Tutorial_stashing.git
