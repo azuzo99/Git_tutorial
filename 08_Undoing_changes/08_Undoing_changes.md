@@ -1,4 +1,4 @@
-# Udnoing changes
+# Undoing changes
 
 ## `git checkout`
 
@@ -15,7 +15,7 @@ We can use this command to:
 
 This is why recommendation is to not use checkout too much and use less complex functions.
 
-When you will use `git checkoout commit <hash>` you will come to the previous commit, BUT you will see this:
+When you will use `git checkout commit <hash>` you will come to the previous commit, BUT you will see this:
 
 ```git
 You are in 'detached HEAD' state. You can look around, make experimental changes and commit them, and you can discard any commits you make in this state without impacting any branches by switching back to a branch
