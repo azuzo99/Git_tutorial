@@ -4,7 +4,7 @@
 
 From the very first point of view `git checkout` is similar to `git switch`, BUT **this is not true**.
 
-`git checkout` is overloaded that means it combines `git switch` and `git restore`. 
+`git checkout` is overloaded that means it combines `git switch` and `git restore`.
 
 We can use this command to:
 
