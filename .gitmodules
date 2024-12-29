@@ -4,3 +4,6 @@
 [submodule "07_Stashing/Git_Tutorial_stashing"]
 	path = 07_Stashing/Git_Tutorial_stashing
 	url = https://github.com/azuzo99/Git_Tutorial_stashing.git
+[submodule "08_Undoing_changes/yesterday-exercise"]
+	path = 08_Undoing_changes/yesterday-exercise
+	url = https://github.com/Colt/yesterday-exercise
