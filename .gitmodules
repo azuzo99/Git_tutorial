@@ -7,3 +7,9 @@
 [submodule "08_Undoing_changes/yesterday-exercise"]
 	path = 08_Undoing_changes/yesterday-exercise
 	url = https://github.com/Colt/yesterday-exercise
+[submodule "11_Git_Rebase/rebase_exercise"]
+	path = 11_Git_Rebase/rebase_exercise
+	url = https://github.com/azuzo99/rebase_exercise.git
+[submodule "12_Cleaning_History/exercise/interactive-rebase-demo"]
+	path = 12_Cleaning_History/exercise/interactive-rebase-demo
+	url = https://github.com/Colt/interactive-rebase-demo.git
