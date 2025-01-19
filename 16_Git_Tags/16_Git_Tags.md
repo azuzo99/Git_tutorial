@@ -18,4 +18,3 @@ There are a lot of created aliases on:
 * [Github/gitalias](https://github.com/GitAlias/gitalias)
 * [Must-Have Blog](https://www.durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
 * [GithubGist](https://gist.github.com/mwhite/6887990)
-* 
