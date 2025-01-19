@@ -6,7 +6,7 @@
 
 ![alt-text](./screenshots/image_14_01.png)
 
-we can navigate there using 
+we can navigate there using
 
 ```bash
 ls -a
