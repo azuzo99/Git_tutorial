@@ -1,4 +1,4 @@
-# Git Tags
+# Git Aliases
 
 Git aliases allow us to write our own alias for git commands adding changes to `.gitconfig` file.
 
